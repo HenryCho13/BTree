@@ -1,0 +1,9 @@
+L: /Users/Henry/Documents/CS160/Assignment_03/Assignment_03/bdata.txt
+P:
+D: 95
+P:
+S: 10
+A: 92
+P:
+S: 101
+T:
